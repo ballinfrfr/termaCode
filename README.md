@@ -1,6 +1,6 @@
 # to run
 
-node main.js
+node 0.4IAL.js
 
 # to save files
 
