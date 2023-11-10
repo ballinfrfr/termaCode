@@ -16,3 +16,5 @@ node 0.4IAL.js
 :e to go back and edit a line
 
 :t terminal emulater
+
+:w to just save the file without exiting
