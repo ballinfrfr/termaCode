@@ -1,7 +1,9 @@
 # to run
 
 node 0.4IAL.js
+
 or 
+
 node 0.4.6GOAT.js
 
 # to save files
