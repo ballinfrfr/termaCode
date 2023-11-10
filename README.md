@@ -8,7 +8,7 @@ node 0.4.6GOAT.js
 
 # to save files
 
-:q to save as out.txt
+:q to quit and save as out.txt
 
 
 :wq [filename].[ext goes here] without the brackets
