@@ -1,6 +1,6 @@
 // Function to print the header
 function printHeader() {
-  const title = 'termaCode V0.0.4 (ial)';
+  const title = 'termaCode V0..4 (ial)';
   const line = '|----------------------|';
   const padding = '|                      |';
 
