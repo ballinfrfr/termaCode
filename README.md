@@ -6,7 +6,7 @@ or
 
 node 0.4.6GOAT.js
 
-# to save files
+# commands
 
 :q to quit and save as out.txt
 
