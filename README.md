@@ -6,6 +6,10 @@ or
 
 node 0.4.6GOAT.js
 
+or
+
+node 0.7CHICKEN
+
 # commands
 
 :q to quit and save as out.txt
