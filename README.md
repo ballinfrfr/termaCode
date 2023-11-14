@@ -1,6 +1,7 @@
 # to run
 
 pkg index.js or what ever version u want to use
+
 ./index-linux or what ever OS you have
 
 
