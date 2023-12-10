@@ -13,7 +13,7 @@ node 0.4.6GOAT.js
 
 or
 
-node 0.7CHICKEN
+node 0.7CHICKEN.js
 
 # commands
 
