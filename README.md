@@ -1,9 +1,10 @@
-# to run
+# to make executible
 
 pkg index.js or what ever version u want to use
 
-./index-linux or what ever OS you have
+./index-linux or ./imdex-mac or ./imdex-windows depending on what OS you have
 
+# to just run
 
 node 0.4IAL.js
 
