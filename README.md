@@ -1,4 +1,4 @@
-# to make executible
+# to make the code a executible
 
 pkg index.js or what ever version u want to use
 
